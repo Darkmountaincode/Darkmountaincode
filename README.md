@@ -23,8 +23,8 @@
 </a>
 <br>
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark&custom_title=Current%20Streak)](https://github.com/anuraghazra/github-readme-stats)
+[![Efkan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![Efkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&hide=contribs,prs)
 
 
 <!---
