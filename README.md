@@ -112,7 +112,6 @@
 
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&show_icons=true&theme=radical)
 
-[![Efkan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
