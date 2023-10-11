@@ -23,7 +23,7 @@
 </a>
 <br>
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
