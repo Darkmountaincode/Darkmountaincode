@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   <br>
-[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg = 250x250)](https://www.linkedin.com/in/efkan-faydal%C4%B1-220a151b7/)
+  <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
+
+[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/efkan-faydal%C4%B1-220a151b7/)
 [![twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/babybayneydis)
 [![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/efkanfaydali/)
 [![codepen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/Darkmountaincode)
