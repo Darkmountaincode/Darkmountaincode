@@ -6,9 +6,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   <br>
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/efkan-faydal%C4%B1-220a151b7/)
-[![twitter](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://twitter.com/babybayneydis)
-[![twitter](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.instagram.com/efkanfaydali/)
+[![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/efkan-faydal%C4%B1-220a151b7/)
+[![twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/babybayneydis)
+[![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/efkanfaydali/)
+[![codepen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/Darkmountaincode)
+[![devto](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg)](https://dev.to/dashboard)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&show_icons=true&theme=gradient) 
