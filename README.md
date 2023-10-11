@@ -1,5 +1,5 @@
   Hi 👋, I'm Efkan Faydalı
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)- 👋 Hi, I’m @Darkmountaincode
+👋 Hi, I’m @Darkmountaincode
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -116,6 +116,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode)](https://github.com/Darkmountaincode)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Darkmountaincode)
+<h3 align="left" id="user-content--support" dir="auto"><a class="heading-link" href="#-support">🫶 Support:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
+<a href="https://www.buymeacoffee.com/darkmountain">
+  <img src="https://camo.githubusercontent.com/81caa49f01aa3c4065f926847867515add31fd87f94d4c4b2c7ddfd9259647bf/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f3833706e7932712e6a7067" height="48" width="48">
+</a>
 <!---
 Darkmountaincode/Darkmountaincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
