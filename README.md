@@ -24,7 +24,19 @@
 </a>
 <br>
 <h3 align="left" id="user-content-️-languages-and-tools" dir="auto"><a class="heading-link" href="#️-languages-and-tools">🗄️ Languages and Tools:<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-![AWS](aws-icon-url) [Amazon Web Services](https://aws.amazon.com/) ![VS Code](vscode-icon-url) [Visual Studio Code](https://code.visualstudio.com/) ![Bootstrap](bootstrap-icon-url) [Bootstrap](https://getbootstrap.com/) ![GNU](gnu-icon-url) [GNU](https://www.gnu.org/) ![CanvasJS](canvasjs-icon-url) [CanvasJS](https://canvasjs.com/) ![C#](csharp-icon-url) [C#](csharp-website-url) ![CSS](css-icon-url) [CSS](css-website-url) ![ElectronJS](electronjs-icon-url) [ElectronJS](electronjs-website-url) ![Google Cloud](cloudgoogle-icon-url) [Google Cloud](cloudgoogle-website-url) ![Git](gitscm-icon-url) [Git](https://git-scm.com/) ![Heroku](heroku-icon-url) [Heroku](https://www.heroku.com/) ![HTML5](html5-icon-url) [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) ![IFTTT](ifttt-icon-url) [IFTTT](https://ifttt.com/) ![JavaScript](js-icon-url) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![Linux](linux-icon-url) [Linux](https://www.linux.org/) ![MariaDB](mariadb-icon-url) [MariaDB](https://mariadb.org/) ![MongoDB](mongodb-icon-url) [MongoDB](https://www.mongodb.com/) ![SQL Server](sqlserver-icon-url) [SQL Server](https://www.microsoft.com/en-us/sql-server) ![MySQL](mysql-icon-url) [MySQL](https://www.mysql.com/) ![Nginx](nginx-icon-url) [Nginx](https://nginx.org/) ![Node.js](nodejs-icon-url) [Node.js](https://nodejs.org/) ![PHP](php-icon-url) [PHP](https://www.php.net/) ![SQL](sql-icon-url) [SQL (Wikipedia)](https://en.wikipedia.org/wiki/SQL) ![Postman](postman-icon-url) [Postman](https://www.postman.com/) ![https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/svg/reactjs.svg) [React](https://reactjs.org/) ![Vue.js](vue-icon-url) [Vue.js](https://vuejs.org/) ![Zapier](zapier-icon-url) [Zapier](https://zapier.com/)
+<a href="https://aws.amazon.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" width="48">
+</a>
+<a href="https://azure.microsoft.com/en-in/">
+  <img src="https://camo.githubusercontent.com/6df31a460cb0c38f960e92812c8b6f8bce4c7f13170fb4782f0b31ab8e792ac2/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6963726f736f66745f617a7572652f6d6963726f736f66745f617a7572652d69636f6e2e737667" height="48" width="48">
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://camo.githubusercontent.com/bbb327d6ba7708520eaafd13396fed64d73bf5df5c4cdd0ba03cf0843f7a9340/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" height="48" width="48">
+</a>
+<a href="https://canvasjs.com/">
+  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" height="48" width="48">
+</a>
+
 
 [![Efkan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
