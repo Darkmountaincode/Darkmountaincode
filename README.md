@@ -25,6 +25,7 @@
 
 [![Efkan'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Activity Graph](https://camo.githubusercontent.com/32517765020b8f9416b5069e027672476ab99465efd0292bb35f1ed0cee020b0/68747470733a2f2f6769746875622d726561646d652d7374726561...)](https://github.com/username)
 
 <!---
 Darkmountaincode/Darkmountaincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
