@@ -110,11 +110,12 @@
   <img src="https://camo.githubusercontent.com/81caa49f01aa3c4065f926847867515add31fd87f94d4c4b2c7ddfd9259647bf/68747470733a2f2f692e68697a6c69726573696d2e636f6d2f3833706e7932712e6a7067" height="48" width="48">
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Darkmountaincode&theme=dark)](https://git.io/streak-stats)
+
 
 ![Efkan's github stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Darkmountaincode&theme=dark)](https://git.io/streak-stats)
-
+[![trophy](https://github-profile-trophy.vercel.app/?Darkmountaincode=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 <!---
