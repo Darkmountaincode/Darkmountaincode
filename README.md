@@ -12,7 +12,7 @@
   <a href="https://codepen.io/Darkmountaincode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" align="left" height="48" width="48" ></a>
   <a href="https://dev.to/dashboard"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" align="left" height="48" width="48" ></a>
 
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?Darkmountaincode=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Darkmountaincode)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Darkmountaincode/Darkmountaincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
