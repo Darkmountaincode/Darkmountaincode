@@ -94,7 +94,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="48" width="48">
 </a>
 <a href="https://www.php.net/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg height="48" width="48">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="48" width="48">
 </a>
 
 <a href="https://www.postman.com/">
