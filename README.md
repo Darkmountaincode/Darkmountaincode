@@ -114,6 +114,8 @@
 
 ![Efkan's github stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode&show_icons=true&theme=radical)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkmountaincode)](https://github.com/Darkmountaincode)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Darkmountaincode)
 <!---
 Darkmountaincode/Darkmountaincode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
